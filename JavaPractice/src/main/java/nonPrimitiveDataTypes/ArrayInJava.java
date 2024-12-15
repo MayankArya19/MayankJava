@@ -1,10 +1,10 @@
 package nonPrimitiveDataTypes;
 
-public class arrayInJava {
+public class ArrayInJava {
 	
 	public static void main(String[] args) {
 		
-		String [] str = {"Mayank", "Arya"};
+		//String [] str = {"Mayank", "Arya"};
 		
 		String [] str1 = new String[2];
 		
